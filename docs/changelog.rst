@@ -13,6 +13,14 @@ latest changes in development for next release
 
 * several bug fixes, including:
 
+  * fixing dependency declarations (`#162`_ by `@lillypad`_)
+
+
+1.6.1
+-------------------
+
+* several bug fixes, including:
+
   * fixing the readthedocs build (`#150`_)
 
 
@@ -271,6 +279,7 @@ latest changes in development for next release
 .. _@jsmith-mploir: https://github.com/jsmith-mploir
 .. _@kokxx: https://github.com/Kokxx
 .. _@levivm: https://github.com/levivm
+.. _@lillypad: https://github.com/lillypad
 .. _@motazsaad: https://github.com/motazsaad
 .. _@onionradish: https://github.com/onionradish
 .. _@pierre-ernst: https://github.com/pierre-ernst
@@ -346,3 +355,4 @@ latest changes in development for next release
 .. _#148: https://github.com/deanmalmgren/textract/issues/148
 .. _#149: https://github.com/deanmalmgren/textract/issues/149
 .. _#150: https://github.com/deanmalmgren/textract/issues/150
+.. _#162: https://github.com/deanmalmgren/textract/issues/162
